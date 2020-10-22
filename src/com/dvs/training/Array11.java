@@ -28,7 +28,7 @@ public static void main(String[] args) {
 	        // insert 34 to first element
 	        age[0] = 34;
 	        //insert 4th element 
-	        age[3] = 22;
+	       // age[3] = 22;
 	        //insert 3rd element
 	        age[2]= 12;
 
